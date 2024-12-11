@@ -19,6 +19,8 @@ Resistencias
 Aplicaciones:
 Simulador de dados electrónicos.
 Introducción a la generación de números aleatorios en sistemas embebidos.
+![Imagen de WhatsApp 2024-12-11 a las 13 52 03_bbc5e28a](https://github.com/user-attachments/assets/5951d267-6a98-45d0-abbb-6470bbd8e5f7)
+
 
 # 2. Control de LEDs con un Joystick Analógico
 Descripción:
@@ -33,6 +35,8 @@ Resistencias
 Aplicaciones:
 Control de dispositivos en videojuegos o robótica.
 Lectura de entradas analógicas y digitales.
+![Imagen de WhatsApp 2024-12-11 a las 13 51 48_7e1c778d](https://github.com/user-attachments/assets/0aed7a56-92dc-4428-bd5e-4f7599e2bd7a)
+
 
 # 3. Teclado Matricial para Ingreso de Contraseñas
 Descripción:
@@ -47,6 +51,7 @@ Resistencias
 Aplicaciones:
 Sistemas de acceso controlado.
 Introducción a la lectura de teclados matriciales.
+![Imagen de WhatsApp 2024-12-11 a las 13 52 35_c629c0cb](https://github.com/user-attachments/assets/636f566f-6377-4b65-8e29-be47445a5d6e)
 
 # 4. Control con Botones
 
@@ -61,6 +66,8 @@ Resistencias
 Aplicaciones:
 Iluminación decorativa.
 Introducción al control de LEDs RGB.
+![Imagen de WhatsApp 2024-12-11 a las 13 51 19_c17faf38](https://github.com/user-attachments/assets/133afd05-b0f3-4c79-945f-0490b3db7704)
+
 
 # 5. Sistema con Sensor Ultrasónico y Servomotor
 Descripción:
@@ -76,6 +83,8 @@ Resistencias
 Aplicaciones:
 Sistemas automáticos de acceso.
 Práctica con sensores ultrasónicos y servomotores.
+![Imagen de WhatsApp 2024-12-11 a las 13 52 17_13e529cb](https://github.com/user-attachments/assets/63d827a7-3eb1-4b76-add9-8a77148bcf19)
+
 
 # 6. Control de un Zumbador
 Descripción:
@@ -89,3 +98,5 @@ Resistencias
 Aplicaciones:
 Sistemas de alarma.
 Generación de tonos para notificaciones.
+![Imagen de WhatsApp 2024-12-11 a las 13 51 05_68ff123e](https://github.com/user-attachments/assets/5ecccb5a-e24c-43e4-aa67-1364c9f95d4b)
+
